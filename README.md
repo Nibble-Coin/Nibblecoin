@@ -13,7 +13,7 @@ If it wont let you install libboost, then run this command:
 
 ## Download the source code
 
-> git clone https://github.com/Nibble-Coin/nibblecoin
+> git clone https://github.com/Nibble-Coin/Nibblecoin
 
 If you don't have git installed, download it through this command:
 
@@ -21,7 +21,7 @@ If you don't have git installed, download it through this command:
 
 ## Get into the directory and compile
 
-> cd nibblecoin
+> cd Nibblecoin
 
 > make
 
